@@ -1,7 +1,6 @@
-- Hi, i'm Pwtxny.
-- I play Roblox, Rocket League, Minecraft, and others.
-- I am a Learning Software Developer and Programmer, willing to take everything to improve.
-- I also think I need to pace myself sometimes lol
+- I'm Venfro, just a regular user.
+- discord.js bot dev & Roblox dev
+- Learning how to develop software and not just discord bots and Roblox games :)
 
 <!---
 klobyy/klobyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
